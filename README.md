@@ -1,6 +1,6 @@
 Hello I am Siyanda Mayekiso. 
 
- I am a Web Developer based in Minnesota.
+ I am a Software Developer based in Minnesota.
  
  I spend most of my time learning new skills that I can implement to my work. You can find my projects here.
  
