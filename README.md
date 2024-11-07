@@ -1,4 +1,4 @@
-Hello I am Siyanda Mayekiso. 
+Hello I am Siyanda Burnham. 
 
  I am a Full-stack Developer based in Minnesota.
  
