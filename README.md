@@ -1,6 +1,6 @@
 Hello I am Siyanda Burnham. 
 
- I am a Full-stack Developer based in Minnesota.
+ I am a Full-stack Developer based in Minnesota, USA.
  
  I spend most of my time learning new skills that I can implement to my work. You can find my projects here.
  
